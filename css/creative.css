@@ -410,6 +410,11 @@ body {
   color: #d2a679;
 }
 
+.icons-color:hover,
+.icons-color:focus {
+  color: #222222;
+}
+
 .img-centered{
     margin-left: auto;
     margin-right: auto;

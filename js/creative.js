@@ -48,9 +48,9 @@
         duration: 600,
         scale: 0.3,
         distance: '0px'
-    }, 200);
-    sr.reveal('.sr-button', {
-        duration: 1000,
+    }, 300);
+    sr.reveal('.sr-text', {
+        duration: 600,
         delay: 200
     });
     sr.reveal('.sr-contact', {
