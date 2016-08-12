@@ -45,19 +45,19 @@
     // Initialize and Configure Scroll Reveal Animation
     window.sr = ScrollReveal();
     sr.reveal('.sr-icons', {
-        duration: 600,
+        duration: 300,
         scale: 0.3,
         distance: '0px'
-    }, 300);
+    }, 100);
     sr.reveal('.sr-text', {
         duration: 600,
         delay: 200
     });
     sr.reveal('.sr-contact', {
-        duration: 600,
+        duration: 300,
         scale: 0.3,
         distance: '0px'
-    }, 300);
+    }, 100);
 
     // Initialize and Configure Magnific Popup Lightbox Plugin
     $('.popup-gallery').magnificPopup({

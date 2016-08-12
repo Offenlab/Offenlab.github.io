@@ -39,10 +39,14 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 p {
+
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
+
 .bg-primary {
   background-color: #d2a679;
 }
