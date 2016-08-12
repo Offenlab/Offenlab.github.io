@@ -38,6 +38,11 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
+
+h3 {
+	font-size: 15px;
+}
+
 p {
 
   font-family: 'Work Sans', sans-serif;
